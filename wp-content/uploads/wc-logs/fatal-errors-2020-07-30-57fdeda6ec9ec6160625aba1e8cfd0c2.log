@@ -1,0 +1,6 @@
+2020-07-30T05:26:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\ecommerce\wp-includes\Requests\Transport\cURL.php on line 437
+
+2020-07-30T05:26:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\wamp64\www\ecommerce\wp-includes\Requests\Transport\cURL.php on line 437
+
+2020-07-30T05:39:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\ecommerce\wp-includes\Requests\Transport\cURL.php on line 437
+
